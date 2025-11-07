@@ -12,9 +12,12 @@ It is built as a single-page application for a modern, seamless user experience,
 ![alt text](<Screenshot 2025-11-07 235410.png>)
 
 ![alt text](image.png)
-### 📹 Demo Video
 
 
+
+### 📹 Demo Video Link
+
+https://youtu.be/9tza21aK5rc
 
 -----
 
